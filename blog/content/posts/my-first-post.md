@@ -8,3 +8,5 @@ draft: false
 
 This is just a test post, unless I'm you, you really don't care about this.
 
+If you can see this, then is not a draft.
+
