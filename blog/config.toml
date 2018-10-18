@@ -1,0 +1,4 @@
+baseURL = "http://socaire.github.io"
+languageCode = "en-us"
+title = "socaire's blog"
+theme = "ananke"
